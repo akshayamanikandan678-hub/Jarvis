@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S 5.0",
+  "description": "Voice-First AI Assistant for bilingual (Tamil + English) interaction with wake-word activation, multi-modal unified input, morning briefing, campus mode, and voice macros.",
+  "requestFramePermissions": ["microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
